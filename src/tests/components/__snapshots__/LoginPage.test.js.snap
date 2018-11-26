@@ -2,16 +2,8 @@
 
 exports[`should render LoginPage correctly 1`] = `
 <div>
-  <form>
-    <input
-      type="String"
-    />
-    <input
-      type="password"
-    />
-    <button>
-      Login
-    </button>
-  </form>
+  <button>
+    Login
+  </button>
 </div>
 `;
